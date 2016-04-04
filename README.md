@@ -1,6 +1,6 @@
 #CS50x README
 
-This repository is a collection of source code that I wrote for the assignments in Harvard University's CS50x course. The course is hosted by the [Harvard Extension School][19] and is available on the [edx.org][20] Massive Open Online Course (MOOC) platform.
+This repository is a collection of source code that I wrote for the assignments in Harvard University's CS50x course. The course is hosted by the [Harvard Extension School][19].
 
 Below is a brief description of the purpose of each week’s assignment, as well as the language(s) the assignment used:
 <p><br/></P>
@@ -76,4 +76,3 @@ Below is a brief description of the purpose of each week’s assignment, as well
 [17]: https://github.com/nathandoef/CS50x/blob/master/Week%208%20-%20Web%20Programming%20-%20Google%20Maps/public/search.php
 [18]: https://github.com/nathandoef/CS50x/blob/master/Week%208%20-%20Web%20Programming%20-%20Google%20Maps/pset8.sql
 [19]: http://cdn.cs50.net/2016/spring/lectures/0/w/syllabus/cscie50/cscie50.html
-[20]: https://www.edx.org/
