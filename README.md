@@ -11,7 +11,7 @@ Below is a brief description of the purpose of each week’s assignment, as well
 
 [Pattern printing.c][1]:    Loops and nested loops are utilized to perform pattern printing 
 
-[greedy.c][2]:    writing a program designed to give a customer back a minimum number of coins for the change they are owed  
+[greedy.c][2]:    Writing a program designed to give a customer back a minimum number of coins for the change they are owed  
 <p><br/></P>
 
 ######Week 2 - Cryptography
