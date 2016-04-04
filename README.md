@@ -1,6 +1,6 @@
 #CS50x README
 
-This repository is a collection of source code that I wrote for the assignments in Harvard’s CS50x course. The course is hosted by the [Harvard Extension School][19] and is available on the [edx.org][20] Massive Open Online Course (MOOC) platform.
+This repository is a collection of source code that I wrote for the assignments in Harvard University's CS50x course. The course is hosted by the [Harvard Extension School][19] and is available on the [edx.org][20] Massive Open Online Course (MOOC) platform.
 
 Below is a brief description of the purpose of each week’s assignment, as well as the language(s) the assignment used:
 <p><br/></P>
