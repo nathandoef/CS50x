@@ -37,7 +37,7 @@ Below is a brief description of the purpose of each week’s assignment, as well
 
 ######Week 5 - Data Structures
 
-**_Hashtable Spellchecker_** and _Trie Spellchecker_**:    Implementing a spell checking program that loads a dictionary file into the specified data structure using File I/O, pointers and dynamic memory allocation and then checks a second file against the dictionary structure outputting total words, misspelled words and spell-checking speed    
+**_Hashtable Spellchecker_** and **_Trie Spellchecker_**:    Implementing a spell checking program that loads a dictionary file into the specified data structure using File I/O, pointers and dynamic memory allocation and then checks a second file against the dictionary structure outputting total words, misspelled words and spell-checking speed    
 <p><br/></P>
 
 ######Week 6 - Servers
@@ -49,7 +49,7 @@ Below is a brief description of the purpose of each week’s assignment, as well
 
 ######Week 7 - Web Programming - Stocks
 
-**_public, views_** and _pset7.sql_**:    Implementing a stock trading website that allows users to register, login, obtain real time stock quotes from Yahoo Finance, buy and sell stocks based on real time prices, view their portfolio, see their transaction history and change their password     
+**_public, views_** and **_pset7.sql_**:    Implementing a stock trading website that allows users to register, login, obtain real time stock quotes from Yahoo Finance, buy and sell stocks based on real time prices, view their portfolio, see their transaction history and change their password     
 <p><br/></P>
 
 ##HTML5, CSS, PHP, SQL, JavaScript, j Query, Underscore, Ajax, Underscore.js
