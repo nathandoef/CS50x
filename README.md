@@ -55,4 +55,4 @@ Below is a brief description of the purpose of each week’s assignment, as well
 ##HTML5, CSS, PHP, SQL, JavaScript, j Query, Underscore, Ajax, Underscore.js
 
 ######Week 8 - Web Programming - Google Maps
-**_bin/import, public/js/scripts.js, search.php_** and _pset8.sql_**:    Using Google News, Google Maps and the above languages to build a web application to retrieve local news of American cities and post articles on a Google map with city searching functionality 
+**_bin/import, public/js/scripts.js, search.php_** and **_pset8.sql_**:    Using Google News, Google Maps and the above languages to build a web application to retrieve local news of American cities and post articles on a Google map with city searching functionality 
