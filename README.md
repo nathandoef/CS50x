@@ -53,7 +53,7 @@ Below is a brief description of the purpose of each week’s assignment, as well
 [public][12], [views][13] and [pset7.sql][14]:    Implementing a stock trading website that allows users to register, login, obtain real time stock quotes from Yahoo Finance, buy and sell stocks based on real time prices, view their portfolio, see their transaction history and change their password     
 <p><br/></P>
 
-##HTML5, CSS, PHP, SQL, JavaScript, jQuery, Ajax, Underscore.js
+##HTML5, CSS, PHP, MySQL, JavaScript, jQuery, Ajax, Underscore.js
 
 ######Week 8 - Web Programming - Google Maps
 [bin/import][15], [public/js/scripts.js][16], [search.php][17] and [pset8.sql][18]:    Using Google News, Google Maps and the above languages to build a web application to retrieve local news of American cities and post articles on a Google map with city searching functionality 
